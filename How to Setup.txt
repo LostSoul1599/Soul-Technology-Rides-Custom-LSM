@@ -1,0 +1,7 @@
+Custom LSM's Created by LostSoul1599
+
+Setup:
+Thes setup for the LSM's is really easy, just place it near the coastertrack you want it to snap to.
+The LSM's will automaticly snap to the nearest coastertrack.
+
+Nothing else is needet to do.
